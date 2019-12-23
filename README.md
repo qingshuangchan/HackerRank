@@ -1,3 +1,3 @@
 # HackerRank
 
-My version of answers to HackerRank Practice Questions
+My version of answers to HackerRank C# Practice Questions
